@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Brew Finder</string>
+    <string name="action_cleared_loc">Location has been cleared</string>
+</resources>
